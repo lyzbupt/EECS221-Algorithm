@@ -1,0 +1,12 @@
+Dear Professor Lin,
+
+We are the team of project DoorKeeper System in EECS 221 IoT. Thanks for your feadbeack on Tuesday. 
+
+Our team now are improving our project based on your suggestion on making it more "IoT". We didn't show our core effort and compitation well in Tuesday presentation. Although our project uses camera to take photo and make face recongition of home owner and visitor, as other team also did it, our project create a database system on AWS cloud server, which makes our project exteneable. Our database system could support many users to buy our products and make connection and store data in our central control system. What's more, with your suggestion to make it more "IoT" and add more sensors, we are trying to add more sensors to our system to make doorKeeper system more robust and multifunctional. At least, we already add a temperature sensor to system, if the temperature is too high, it will open door because there is fire. (We also could use smoke sensor rather than temperature, but we don't have smoke sensor in hand right now.)
+
+We are trying to improve our project, and we will resubmit a modified report file with new video, source code etc. before deadline on Friday. Please don't take the Tuesday version into account. Thank you so much for your support and suggestion.
+
+Sincerely,
+
+Yuanzhe Li 
+Team of doorKeeper system
